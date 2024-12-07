@@ -10,10 +10,6 @@ This project is a Flask-based chatbot that integrates BERT for intent classifica
 - **Rule-Based System**: Simple rules to handle specific queries related to detected objects (e.g., asking about the color of detected objects).
 
 
-## Project Link
-You can view the project [here](https://drive.google.com/file/d/13LDJhfyJCAldd9nWiHMrDlBjM1EEmh1I/view?usp=drivesdk).
-
-
 ## Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
@@ -100,6 +96,3 @@ You can customize the chatbot's behavior by modifying the following:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a feature request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
