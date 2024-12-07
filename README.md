@@ -94,5 +94,10 @@ You can customize the chatbot's behavior by modifying the following:
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a feature request.
+Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a feature request
+
+## DEMO
+
+https://github.com/user-attachments/assets/8d603ffa-aad9-4c58-9a7e-b53778a33fe2
+
 
