@@ -2,6 +2,12 @@
 
 This project is a Flask-based chatbot that integrates BERT for intent classification, GPT-2 for generating responses, and YOLOv5 for object detection in images. The chatbot can handle text inputs and image uploads, providing responses based on the detected objects and user queries.
 
+
+## DEMO
+
+https://github.com/user-attachments/assets/8d603ffa-aad9-4c58-9a7e-b53778a33fe2
+
+
 ## Features
 
 - **BERT**: Used for classifying the user's intent based on the input message
@@ -96,8 +102,5 @@ You can customize the chatbot's behavior by modifying the following:
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find a bug or have a feature request
 
-## DEMO
-
-https://github.com/user-attachments/assets/8d603ffa-aad9-4c58-9a7e-b53778a33fe2
 
 
